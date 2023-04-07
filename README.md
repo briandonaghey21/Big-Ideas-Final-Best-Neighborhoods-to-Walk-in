@@ -5,7 +5,10 @@ CMPINF 0010 Final Broject for Brian Donaghey[bjd77@pitt.com], Christian Estey[cl
 ### Project Overview
 In this final project, we are analyzing which Pittsburgh neighbors are the best to bike in. We analyzed three different datasets: Safest Neighborhoods, Traffic Count, and On-Road-Bicycle-Pavement-Markings.
 
-## Resu
+## Result - The Best Neighborhood to Bike in
+--
+
+
 ### Datasets used:
 1. [City of Pittsburgh Traffic Count](https://data.wprdc.org/dataset/traffic-count-data-city-of-pittsburgh)
 
