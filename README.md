@@ -15,6 +15,6 @@ In this final project, we are analyzing which Pittsburgh neighbors are the best 
 
     This dataset provides data on traffic and cyclist counts using various methods by neighborhood.
     
-2. [City of Pittsburgh Intersection Markings] (https://data.wprdc.org/dataset/city-of-pittsburgh-markings)
+2. [City of Pittsburgh Intersection Markings](https://data.wprdc.org/dataset/city-of-pittsburgh-markings)
 
     This dataset provides information on crosswalks in certain Pittsburgh neighborhoods
