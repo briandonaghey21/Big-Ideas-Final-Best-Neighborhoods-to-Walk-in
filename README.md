@@ -14,11 +14,4 @@ In this final project, we are analyzing which Pittsburgh neighbors are the best 
 
     This dataset provides data on traffic and cyclist counts using various methods by neighborhood.
     
-2. [On-road Bicycle Pavement Markings](https://data.wprdc.org/dataset/on-road-bicycle-pavement-markings)
 
-    Description here.
-
-3. [Police Incident Blotter (Archive)](https://data.wprdc.org/dataset/uniform-crime-reporting-data)
-
-    Description here.
-    
