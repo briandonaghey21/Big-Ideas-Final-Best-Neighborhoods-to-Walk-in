@@ -20,4 +20,6 @@ In this final project, we are analyzing which Pittsburgh neighbors are the best 
 
     This dataset provides information on crosswalks in certain Pittsburgh neighborhoods.
 
+3. [City of Pittsburgh Crime Count](https://data.wprdc.org/dataset/police-incident-blotter)
 
+    This dataset provides data on amount of crime in every Pittsburgh neighborhood.
